@@ -38,7 +38,7 @@ plotNetwork
 \examples{
 \dontrun{
 ## Download Google Scholar network data for a sample user
-d <- extractNetwork(id="vsddMZcAAAAJ&hl", n=500)
+d <- extractNetwork(id="vsddMZcAAAAJ", n=500)
 ## Plot network into file called \\code{network.html}
 plotNetwork(d$nodes, d$edges, file="network.html")
 }
