@@ -1,4 +1,4 @@
-##This package has been forked from https://github.com/pablobarbera/scholarnetwork##
+**##This package has been forked from https://github.com/pablobarbera and updated with my details, go to https://github.com/pablobarbera/scholarnetwork to get original version of the package##**
 
 
 # Extract and Visualize Google Scholar Collaboration Networks
