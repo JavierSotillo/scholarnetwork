@@ -12,7 +12,7 @@ An initial release of this package is available in this repository (eventually m
 ```
 if(!require("devtools")) install.packages("devtools")
 library("devtools")
-install_github("pablobarbera/scholarnetwork")
+install_github("JavierSotillo/scholarnetwork")
 ```
 
 ## Examples ##
@@ -26,7 +26,7 @@ For now, the package consists of two functions, `extractNetwork` and `plotNetwor
 - a data frame with __node-level information__, which includes the group resulting from running a walktrap community detection algorithm. 
 
 ```r
-d <- extractNetwork(id="jGLKJUoAAAAJ", n=500)
+d <- extractNetwork(id="vsddMZcAAAAJ&hl", n=500)
 str(d)
 ```
 ```
