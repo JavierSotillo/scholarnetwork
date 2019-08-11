@@ -26,7 +26,7 @@ For now, the package consists of two functions, `extractNetwork` and `plotNetwor
 - a data frame with __node-level information__, which includes the group resulting from running a walktrap community detection algorithm. 
 
 ```r
-d <- extractNetwork(id="vsddMZcAAAAJ&hl", n=500)
+d <- extractNetwork(id="vsddMZcAAAAJ", n=500)
 str(d)
 ```
 ```
