@@ -1,3 +1,6 @@
+##This package has been forked from https://github.com/pablobarbera/scholarnetwork##
+
+
 # Extract and Visualize Google Scholar Collaboration Networks
 
 **scholarnetwork** is an R package that provides functions to extracts publication information from Google Scholar, create network of collaborators based on co-authored projects, and visualize these networks using a force-directed layout algorithm.
